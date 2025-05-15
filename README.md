@@ -1,1 +1,3 @@
 # hello-world
+
+In Web Design, I would like to develop the skills to create visually appealing, responsive, and easy-to-navigate websites. My goal is to become proficient in HTML, CSS, and JavaScript, and to apply effective UX/UI principles to enhance user experience. I also want to learn how to design websites that are accessible, functional across all devices, and optimized for performance. Ultimately, I aim to build websites that not only look great but also serve the needs of users efficiently.
